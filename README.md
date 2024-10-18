@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caldag from the University of York.
 - 👀 I’m interested in swimming at low Reynolds numbers and microrobotics.
 - 🗃️ Here I share the code and data related to my publications.
-- 🕸️ (Coming soon) Discover my research at:
+- 🕸️ Discover my research at: caldagho.notion.site
 - 📫 To contact, write to hakanosmanc@gmail.com
 
 <!---

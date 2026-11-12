@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caldag (Hakan Osman Caldag) from the University of York.
+- 👋 Hi, I’m @caldag (Hakan Osman Caldag) from Istanbul Medipol University.
 - 👀 I’m interested in swimming at low Reynolds numbers and microrobotics.
 - 🗃️ Here you can find the code and data related to my publications.
 - 🕸️ Discover my research [here](https://caldagho.notion.site/main)
